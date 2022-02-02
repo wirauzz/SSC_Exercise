@@ -1,5 +1,5 @@
 export class Song{
-    artworkURL100: string;
+    artworkUrl100: string;
     trackName: string;
     artistName: string;
     collectionName: string;
